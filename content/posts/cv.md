@@ -1,6 +1,6 @@
 # Yevhenii Vasiutenko 🇺🇦
 
-_System administrator at Controlpay B.V., Lisbon_ <br>
+_I am System administrator at Controlpay B.V., Lisbon_ <br>
 
 [Email](mailto:thegeka@gmail.com) / [LinkedIn](https://www.linkedin.com/in/yevhenii-vasiutenko) / [GitHub](https://github.com/Evgeniyme)
 
